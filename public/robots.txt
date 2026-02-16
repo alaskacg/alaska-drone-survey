@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alaskacg.github.io/alaska-drone-survey/sitemap.xml
