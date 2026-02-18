@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
 
-Sitemap: https://alaskacg.github.io/alaska-drone-survey/sitemap.xml
+Sitemap: https://alaskadronesurvey.com/sitemap.xml
